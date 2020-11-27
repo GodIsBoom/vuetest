@@ -9,8 +9,9 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: '欢迎哈哈哈哈哈'
+      msg: '欢迎哈哈哈'
     }
   }
 }
 </script>
+
